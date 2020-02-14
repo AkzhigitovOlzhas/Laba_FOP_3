@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\3labfop\3labfop\source.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3LabFOP.vcxproj -> C:\Users\User\source\repos\3LabFOP\Debug\3LabFOP.exe
